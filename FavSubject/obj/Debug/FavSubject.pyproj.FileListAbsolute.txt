@@ -1,0 +1,10 @@
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\FavSubject\bin\Debug\FavSubject.exe.config
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\FavSubject\bin\Debug\FavSubject.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\FavSubject\bin\Debug\FavSubject.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\FavSubject\bin\Debug\IronPython.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\FavSubject\bin\Debug\IronPython.Modules.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\FavSubject\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\FavSubject\bin\Debug\Microsoft.Scripting.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\FavSubject\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\FavSubject\obj\Debug\FavSubject.pyprojResolveAssemblyReference.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\FavSubject\obj\Debug\FavSubject.exe

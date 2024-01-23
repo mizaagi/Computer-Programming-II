@@ -1,0 +1,10 @@
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\YourName\bin\Debug\YourName.exe.config
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\YourName\bin\Debug\YourName.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\YourName\bin\Debug\YourName.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\YourName\bin\Debug\IronPython.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\YourName\bin\Debug\IronPython.Modules.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\YourName\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\YourName\bin\Debug\Microsoft.Scripting.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\YourName\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\YourName\obj\Debug\YourName.pyprojResolveAssemblyReference.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\YourName\obj\Debug\YourName.exe
