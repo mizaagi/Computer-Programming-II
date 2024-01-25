@@ -1,0 +1,12 @@
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang54c\bin\Debug\Lang54c.exe.config
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang54c\bin\Debug\Lang54c.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang54c\bin\Debug\Lang54c.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang54c\bin\Debug\IronPython.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang54c\bin\Debug\IronPython.Modules.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang54c\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang54c\bin\Debug\Microsoft.Scripting.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang54c\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang54c\obj\Debug\Lang54c.pyprojResolveAssemblyReference.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang54c\obj\Debug\Lang54c.MainForm.resources
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang54c\obj\Debug\Lang54c.pyproj.GenerateResource.Cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang54c\obj\Debug\Lang54c.exe
