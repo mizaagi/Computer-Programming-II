@@ -1,0 +1,12 @@
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang122aFor\bin\Debug\Lang122aFor.exe.config
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang122aFor\bin\Debug\Lang122aFor.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang122aFor\bin\Debug\Lang122aFor.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang122aFor\bin\Debug\IronPython.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang122aFor\bin\Debug\IronPython.Modules.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang122aFor\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang122aFor\bin\Debug\Microsoft.Scripting.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang122aFor\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang122aFor\obj\Debug\Lang122aFor.pyprojResolveAssemblyReference.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang122aFor\obj\Debug\Lang122aFor.MainForm.resources
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang122aFor\obj\Debug\Lang122aFor.pyproj.GenerateResource.Cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang122aFor\obj\Debug\Lang122aFor.exe

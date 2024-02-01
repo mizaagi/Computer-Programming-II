@@ -1,0 +1,12 @@
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang166e\bin\Debug\Lang166e.exe.config
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang166e\bin\Debug\Lang166e.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang166e\bin\Debug\Lang166e.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang166e\bin\Debug\IronPython.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang166e\bin\Debug\IronPython.Modules.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang166e\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang166e\bin\Debug\Microsoft.Scripting.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang166e\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang166e\obj\Debug\Lang166e.pyprojResolveAssemblyReference.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang166e\obj\Debug\Lang166e.MainForm.resources
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang166e\obj\Debug\Lang166e.pyproj.GenerateResource.Cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Lang166e\obj\Debug\Lang166e.exe
