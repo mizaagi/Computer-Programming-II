@@ -14,6 +14,8 @@ class MainForm(Form):
 		self._button1 = System.Windows.Forms.Button()
 		self._button2 = System.Windows.Forms.Button()
 		self._button3 = System.Windows.Forms.Button()
+		self._label2 = System.Windows.Forms.Label()
+		self._label3 = System.Windows.Forms.Label()
 		self.SuspendLayout()
 		# 
 		# label1
@@ -66,10 +68,32 @@ class MainForm(Form):
 		self._button3.Text = "Exit"
 		self._button3.UseVisualStyleBackColor = True
 		# 
+		# label2
+		# 
+		self._label2.Font = System.Drawing.Font("Microsoft Sans Serif", 14.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+		self._label2.ForeColor = System.Drawing.SystemColors.ControlLightLight
+		self._label2.Location = System.Drawing.Point(13, 72)
+		self._label2.Name = "label2"
+		self._label2.Size = System.Drawing.Size(100, 23)
+		self._label2.TabIndex = 7
+		self._label2.Text = "Result:"
+		# 
+		# label3
+		# 
+		self._label3.BackColor = System.Drawing.SystemColors.ControlLightLight
+		self._label3.Font = System.Drawing.Font("Microsoft Sans Serif", 14.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+		self._label3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
+		self._label3.Location = System.Drawing.Point(155, 72)
+		self._label3.Name = "label3"
+		self._label3.Size = System.Drawing.Size(123, 28)
+		self._label3.TabIndex = 8
+		# 
 		# MainForm
 		# 
 		self.BackColor = System.Drawing.SystemColors.ControlText
 		self.ClientSize = System.Drawing.Size(650, 406)
+		self.Controls.Add(self._label3)
+		self.Controls.Add(self._label2)
 		self.Controls.Add(self._button3)
 		self.Controls.Add(self._button2)
 		self.Controls.Add(self._button1)
@@ -81,15 +105,18 @@ class MainForm(Form):
 		self.PerformLayout()
 
 	def Button1Click(self, sender, e):
-		duplicates = []
 		self._label3.Text = ""
 		myStr = self._textBox1.Text.lower()
-		for lcv in range(len(myStr)):
-			for lcv2 in range(lcv+1, len(myStr)):
-				letter1 = myStr[lcv]
-				letter2 = myStr[lcv2]
-				if letter1 == letter2:
-					duplicates.append(letter2)
+		letters2 = []
+		for letter in myStr:
+			if myStr.count(letter) <= 1:
+				letters2.append(letter)
+		try:
+			self._label3.Text = letters2[0]
+		except:
+			self._label3.Text = "N/A"
+			
+		
 
 	def Button2Click(self, sender, e):
 		self._label3.Text = ""
