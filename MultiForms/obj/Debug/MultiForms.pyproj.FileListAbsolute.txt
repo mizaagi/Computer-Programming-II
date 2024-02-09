@@ -1,0 +1,13 @@
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\MultiForms\bin\Debug\MultiForms.exe.config
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\MultiForms\bin\Debug\MultiForms.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\MultiForms\bin\Debug\MultiForms.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\MultiForms\bin\Debug\IronPython.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\MultiForms\bin\Debug\IronPython.Modules.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\MultiForms\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\MultiForms\bin\Debug\Microsoft.Scripting.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\MultiForms\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\MultiForms\obj\Debug\MultiForms.pyprojResolveAssemblyReference.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\MultiForms\obj\Debug\MultiForms.Form1.resources
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\MultiForms\obj\Debug\MultiForms.MainForm.resources
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\MultiForms\obj\Debug\MultiForms.pyproj.GenerateResource.Cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\MultiForms\obj\Debug\MultiForms.exe
