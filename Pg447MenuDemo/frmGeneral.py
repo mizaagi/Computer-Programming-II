@@ -1,17 +1,15 @@
-﻿import System.Drawing
+﻿
+import System.Drawing
 import System.Windows.Forms
 
 from System.Drawing import *
 from System.Windows.Forms import *
 
-class MainForm(Form):
+class frmGeneral(Form):
 	def __init__(self):
 		self.InitializeComponent()
 	
 	def InitializeComponent(self):
-		# 
-		# MainForm
-		# 
-		self.Name = "MainForm"
-		self.Text = "Pg447MenuDemo"
+		self.Name = "frmGeneral"
+		self.Text = "frmGeneral"
 
