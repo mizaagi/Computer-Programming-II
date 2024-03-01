@@ -1,0 +1,14 @@
+C:\Users\kohn.m\Documents\GitHub\Pg435TicketSalesPython\obj\Debug\Pg435TicketSalesPython.pyprojResolveAssemblyReference.cache
+C:\Users\kohn.m\Documents\GitHub\Pg435TicketSalesPython\obj\Debug\Pg435TicketSalesPython.Form1.resources
+C:\Users\kohn.m\Documents\GitHub\Pg435TicketSalesPython\obj\Debug\Pg435TicketSalesPython.MainForm.resources
+C:\Users\kohn.m\Documents\GitHub\Pg435TicketSalesPython\obj\Debug\Pg435TicketSalesPython.pyproj.GenerateResource.Cache
+C:\Users\kohn.m\Documents\GitHub\Pg435TicketSalesPython\bin\Debug\Pg435TicketSalesPython.exe.config
+C:\Users\kohn.m\Documents\GitHub\Pg435TicketSalesPython\bin\Debug\Pg435TicketSalesPython.exe
+C:\Users\kohn.m\Documents\GitHub\Pg435TicketSalesPython\bin\Debug\Pg435TicketSalesPython.dll
+C:\Users\kohn.m\Documents\GitHub\Pg435TicketSalesPython\bin\Debug\IronPython.dll
+C:\Users\kohn.m\Documents\GitHub\Pg435TicketSalesPython\bin\Debug\IronPython.Modules.dll
+C:\Users\kohn.m\Documents\GitHub\Pg435TicketSalesPython\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\kohn.m\Documents\GitHub\Pg435TicketSalesPython\bin\Debug\Microsoft.Scripting.dll
+C:\Users\kohn.m\Documents\GitHub\Pg435TicketSalesPython\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\kohn.m\Documents\GitHub\Pg435TicketSalesPython\obj\Debug\Pg435TicketSalesPython.exe
+C:\Users\kohn.m\Documents\GitHub\Pg435TicketSalesPython\obj\Debug\Pg435TicketSalesPython.Form2.resources
