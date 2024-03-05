@@ -1,0 +1,12 @@
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Pg485ShadeDesigner-OneForm\bin\Debug\Pg485ShadeDesigner-OneForm.exe.config
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Pg485ShadeDesigner-OneForm\bin\Debug\Pg485ShadeDesigner-OneForm.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Pg485ShadeDesigner-OneForm\bin\Debug\Pg485ShadeDesigner-OneForm.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Pg485ShadeDesigner-OneForm\bin\Debug\IronPython.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Pg485ShadeDesigner-OneForm\bin\Debug\IronPython.Modules.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Pg485ShadeDesigner-OneForm\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Pg485ShadeDesigner-OneForm\bin\Debug\Microsoft.Scripting.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Pg485ShadeDesigner-OneForm\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Pg485ShadeDesigner-OneForm\obj\Debug\Pg485ShadeDesigner-OneForm.pyprojResolveAssemblyReference.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Pg485ShadeDesigner-OneForm\obj\Debug\Pg485ShadeDesigner_OneForm.MainForm.resources
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Pg485ShadeDesigner-OneForm\obj\Debug\Pg485ShadeDesigner-OneForm.pyproj.GenerateResource.Cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\Pg485ShadeDesigner-OneForm\obj\Debug\Pg485ShadeDesigner-OneForm.exe
