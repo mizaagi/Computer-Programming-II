@@ -1,0 +1,17 @@
+Index: Pg485SkateBoardDesigner-OneForm/app.config
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Pg485SkateBoardDesigner-OneForm/app.config b/Pg485SkateBoardDesigner-OneForm/app.config
+new file mode 100644
+--- /dev/null	(date 1709756867427)
++++ b/Pg485SkateBoardDesigner-OneForm/app.config	(date 1709756867427)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="utf-8"?>
++<configuration>
++	<startup>
++		<supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0" />
++	</startup>
++</configuration>
+\ No newline at end of file
