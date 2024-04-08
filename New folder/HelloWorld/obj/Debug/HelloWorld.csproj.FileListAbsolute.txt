@@ -1,0 +1,7 @@
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\New folder\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\New folder\HelloWorld\obj\Debug\HelloWorld.MainForm.resources
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\New folder\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\New folder\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\New folder\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\New folder\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\New folder\HelloWorld\obj\Debug\HelloWorld.pdb

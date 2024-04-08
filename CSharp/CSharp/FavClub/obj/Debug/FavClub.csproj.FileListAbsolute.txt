@@ -1,0 +1,5 @@
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\FavClub\bin\Debug\FavClub.exe.config
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\FavClub\bin\Debug\FavClub.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\FavClub\bin\Debug\FavClub.pdb
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\FavClub\obj\Debug\FavClub.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\FavClub\obj\Debug\FavClub.pdb
