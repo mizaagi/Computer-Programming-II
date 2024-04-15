@@ -1,0 +1,6 @@
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\FullName\bin\Debug\FullName.exe.config
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\FullName\bin\Debug\FullName.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\FullName\bin\Debug\FullName.pdb
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\FullName\obj\Debug\FullName.csprojResolveAssemblyReference.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\FullName\obj\Debug\FullName.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\FullName\obj\Debug\FullName.pdb

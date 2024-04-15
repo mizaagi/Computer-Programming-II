@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog54bConsole", "Prog54bCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog54cConsole", "Prog54cConsole\Prog54cConsole.csproj", "{00497888-C0C7-47DD-AD6C-FE6B666EAF4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullName", "FullName\FullName.csproj", "{631BFA0A-0E96-44EF-9C80-3AB8137A762A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{64AAE57E-1027-4071-ADCF-C7E215C8A652}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{00497888-C0C7-47DD-AD6C-FE6B666EAF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00497888-C0C7-47DD-AD6C-FE6B666EAF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00497888-C0C7-47DD-AD6C-FE6B666EAF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{631BFA0A-0E96-44EF-9C80-3AB8137A762A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631BFA0A-0E96-44EF-9C80-3AB8137A762A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631BFA0A-0E96-44EF-9C80-3AB8137A762A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631BFA0A-0E96-44EF-9C80-3AB8137A762A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64AAE57E-1027-4071-ADCF-C7E215C8A652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64AAE57E-1027-4071-ADCF-C7E215C8A652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64AAE57E-1027-4071-ADCF-C7E215C8A652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64AAE57E-1027-4071-ADCF-C7E215C8A652}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
