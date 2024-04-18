@@ -1,1 +1,9 @@
 C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\WindowsFormsApplication2\obj\Debug\Prog88a.Form1.resources
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
