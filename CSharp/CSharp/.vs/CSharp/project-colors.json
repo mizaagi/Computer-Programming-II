@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e91afe98-94ba-43af-a287-c76e2ecb03ff": {
+      "ProjectGuid": "e91afe98-94ba-43af-a287-c76e2ecb03ff",
+      "DisplayName": "HelloName",
+      "ColorIndex": 0
+    },
+    "d6444f60-f4db-444b-b4a4-c6ee271acdc5": {
+      "ProjectGuid": "d6444f60-f4db-444b-b4a4-c6ee271acdc5",
+      "DisplayName": "LP4-1",
+      "ColorIndex": 1
+    },
+    "4ea28030-0d82-415a-a408-b2dc11eada64": {
+      "ProjectGuid": "4ea28030-0d82-415a-a408-b2dc11eada64",
+      "DisplayName": "Lang88aForm",
+      "ColorIndex": 2
+    },
+    "64aae57e-1027-4071-adcf-c7e215c8a652": {
+      "ProjectGuid": "64aae57e-1027-4071-adcf-c7e215c8a652",
+      "DisplayName": "WindowsFormsApplication1",
+      "ColorIndex": 3
+    },
+    "0520c9df-6d26-4dbb-8a15-b2d9439acd19": {
+      "ProjectGuid": "0520c9df-6d26-4dbb-8a15-b2d9439acd19",
+      "DisplayName": "Lang54bForm",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
