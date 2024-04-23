@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LP4-1", "LP4-1\LP4-1.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lang54bForm", "Lang54bForm\Lang54bForm.csproj", "{0520C9DF-6D26-4DBB-8A15-B2D9439ACD19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LP4-2", "LP4-2\LP4-2.csproj", "{85B20366-967D-4CC0-A093-6116CD34D957}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LP4-2", "LP4-2\LP4-2.csproj", "{85B20366-967D-4CC0-A093-6116CD34D957}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LP4-5", "LP4-5\LP4-5.csproj", "{D9A931B9-9F7D-4870-9F9C-E4E6AE3861EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LP4-5", "LP4-5\LP4-5.csproj", "{D9A931B9-9F7D-4870-9F9C-E4E6AE3861EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "funproject", "funproject\funproject.csproj", "{2C7EDFAD-B88B-4A6F-B2A6-64EDFFE93C61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{D9A931B9-9F7D-4870-9F9C-E4E6AE3861EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9A931B9-9F7D-4870-9F9C-E4E6AE3861EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9A931B9-9F7D-4870-9F9C-E4E6AE3861EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7EDFAD-B88B-4A6F-B2A6-64EDFFE93C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7EDFAD-B88B-4A6F-B2A6-64EDFFE93C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7EDFAD-B88B-4A6F-B2A6-64EDFFE93C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7EDFAD-B88B-4A6F-B2A6-64EDFFE93C61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

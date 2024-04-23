@@ -25,7 +25,22 @@
       "ProjectGuid": "0520c9df-6d26-4dbb-8a15-b2d9439acd19",
       "DisplayName": "Lang54bForm",
       "ColorIndex": 4
+    },
+    "85b20366-967d-4cc0-a093-6116cd34d957": {
+      "ProjectGuid": "85b20366-967d-4cc0-a093-6116cd34d957",
+      "DisplayName": "LP4-2",
+      "ColorIndex": 5
+    },
+    "d9a931b9-9f7d-4870-9f9c-e4e6ae3861ef": {
+      "ProjectGuid": "d9a931b9-9f7d-4870-9f9c-e4e6ae3861ef",
+      "DisplayName": "LP4-5",
+      "ColorIndex": 6
+    },
+    "2c7edfad-b88b-4a6f-b2a6-64edffe93c61": {
+      "ProjectGuid": "2c7edfad-b88b-4a6f-b2a6-64edffe93c61",
+      "DisplayName": "funproject",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 8
 }
