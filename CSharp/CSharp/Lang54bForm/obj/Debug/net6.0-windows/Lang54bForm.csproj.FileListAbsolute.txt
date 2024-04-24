@@ -1,0 +1,17 @@
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang54bForm\bin\Debug\net6.0-windows\Lang54bForm.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang54bForm\bin\Debug\net6.0-windows\Lang54bForm.deps.json
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang54bForm\bin\Debug\net6.0-windows\Lang54bForm.runtimeconfig.json
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang54bForm\bin\Debug\net6.0-windows\Lang54bForm.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang54bForm\bin\Debug\net6.0-windows\ref\Lang54bForm.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang54bForm\bin\Debug\net6.0-windows\Lang54bForm.pdb
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang54bForm\obj\Debug\net6.0-windows\Lang54bForm.csproj.AssemblyReference.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang54bForm\obj\Debug\net6.0-windows\Lang54bForm.Form1.resources
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang54bForm\obj\Debug\net6.0-windows\Lang54bForm.csproj.GenerateResource.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang54bForm\obj\Debug\net6.0-windows\Lang54bForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang54bForm\obj\Debug\net6.0-windows\Lang54bForm.AssemblyInfoInputs.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang54bForm\obj\Debug\net6.0-windows\Lang54bForm.AssemblyInfo.cs
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang54bForm\obj\Debug\net6.0-windows\Lang54bForm.csproj.CoreCompileInputs.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang54bForm\obj\Debug\net6.0-windows\Lang54bForm.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang54bForm\obj\Debug\net6.0-windows\ref\Lang54bForm.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang54bForm\obj\Debug\net6.0-windows\Lang54bForm.pdb
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang54bForm\obj\Debug\net6.0-windows\Lang54bForm.genruntimeconfig.cache
