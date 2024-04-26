@@ -1,0 +1,17 @@
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang85cForm\bin\Debug\net6.0-windows\Lang85cForm.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang85cForm\bin\Debug\net6.0-windows\Lang85cForm.deps.json
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang85cForm\bin\Debug\net6.0-windows\Lang85cForm.runtimeconfig.json
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang85cForm\bin\Debug\net6.0-windows\Lang85cForm.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang85cForm\bin\Debug\net6.0-windows\ref\Lang85cForm.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang85cForm\bin\Debug\net6.0-windows\Lang85cForm.pdb
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang85cForm\obj\Debug\net6.0-windows\Lang85cForm.csproj.AssemblyReference.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang85cForm\obj\Debug\net6.0-windows\Lang85cForm.Form1.resources
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang85cForm\obj\Debug\net6.0-windows\Lang85cForm.csproj.GenerateResource.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang85cForm\obj\Debug\net6.0-windows\Lang85cForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang85cForm\obj\Debug\net6.0-windows\Lang85cForm.AssemblyInfoInputs.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang85cForm\obj\Debug\net6.0-windows\Lang85cForm.AssemblyInfo.cs
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang85cForm\obj\Debug\net6.0-windows\Lang85cForm.csproj.CoreCompileInputs.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang85cForm\obj\Debug\net6.0-windows\Lang85cForm.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang85cForm\obj\Debug\net6.0-windows\ref\Lang85cForm.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang85cForm\obj\Debug\net6.0-windows\Lang85cForm.pdb
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang85cForm\obj\Debug\net6.0-windows\Lang85cForm.genruntimeconfig.cache

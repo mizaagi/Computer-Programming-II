@@ -40,7 +40,12 @@
       "ProjectGuid": "2c7edfad-b88b-4a6f-b2a6-64edffe93c61",
       "DisplayName": "funproject",
       "ColorIndex": 7
+    },
+    "8b976c59-4b3a-4769-9dd7-861bc2a2193a": {
+      "ProjectGuid": "8b976c59-4b3a-4769-9dd7-861bc2a2193a",
+      "DisplayName": "Lang85cForm",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }
