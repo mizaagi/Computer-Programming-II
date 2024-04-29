@@ -45,7 +45,27 @@
       "ProjectGuid": "8b976c59-4b3a-4769-9dd7-861bc2a2193a",
       "DisplayName": "Lang85cForm",
       "ColorIndex": 8
+    },
+    "dbedeeb8-b212-45bf-ac0d-e28d696bcf22": {
+      "ProjectGuid": "dbedeeb8-b212-45bf-ac0d-e28d696bcf22",
+      "DisplayName": "AboutMeForm",
+      "ColorIndex": 9
+    },
+    "9a4b2a59-4ffb-47bd-a9d3-bbf6da1e7c44": {
+      "ProjectGuid": "9a4b2a59-4ffb-47bd-a9d3-bbf6da1e7c44",
+      "DisplayName": "Prog122a",
+      "ColorIndex": 10
+    },
+    "848f1ad6-2ce9-4f30-be9f-b48c1b57d233": {
+      "ProjectGuid": "848f1ad6-2ce9-4f30-be9f-b48c1b57d233",
+      "DisplayName": "Pg266LargeSmall",
+      "ColorIndex": 11
+    },
+    "edc246e9-04e3-4377-bfe9-ea715053ef1d": {
+      "ProjectGuid": "edc246e9-04e3-4377-bfe9-ea715053ef1d",
+      "DisplayName": "Pg273BookClubPoints",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 13
 }

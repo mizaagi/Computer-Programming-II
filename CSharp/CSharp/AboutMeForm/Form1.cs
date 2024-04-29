@@ -6,5 +6,10 @@ namespace AboutMeForm
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label1.Text = "Name: Marlon\nFav Sport: Tennis (Currently)\nFav Quote: Stop wasting time trying to live someone else's life"
+        }
     }
 }
