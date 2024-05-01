@@ -1,0 +1,16 @@
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang310aFor\obj\Debug\net6.0-windows\Lang310aFor.Form1.resources
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang310aFor\obj\Debug\net6.0-windows\Lang310aFor.csproj.GenerateResource.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang310aFor\obj\Debug\net6.0-windows\Lang310aFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang310aFor\obj\Debug\net6.0-windows\Lang310aFor.AssemblyInfoInputs.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang310aFor\obj\Debug\net6.0-windows\Lang310aFor.AssemblyInfo.cs
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang310aFor\obj\Debug\net6.0-windows\Lang310aFor.csproj.CoreCompileInputs.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang310aFor\bin\Debug\net6.0-windows\Lang310aFor.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang310aFor\bin\Debug\net6.0-windows\Lang310aFor.deps.json
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang310aFor\bin\Debug\net6.0-windows\Lang310aFor.runtimeconfig.json
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang310aFor\bin\Debug\net6.0-windows\Lang310aFor.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang310aFor\bin\Debug\net6.0-windows\ref\Lang310aFor.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang310aFor\bin\Debug\net6.0-windows\Lang310aFor.pdb
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang310aFor\obj\Debug\net6.0-windows\Lang310aFor.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang310aFor\obj\Debug\net6.0-windows\ref\Lang310aFor.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang310aFor\obj\Debug\net6.0-windows\Lang310aFor.pdb
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang310aFor\obj\Debug\net6.0-windows\Lang310aFor.genruntimeconfig.cache

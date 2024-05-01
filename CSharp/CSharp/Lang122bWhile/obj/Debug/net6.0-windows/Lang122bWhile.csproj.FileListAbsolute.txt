@@ -1,0 +1,16 @@
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang122bWhile\bin\Debug\net6.0-windows\Lang122bWhile.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang122bWhile\bin\Debug\net6.0-windows\Lang122bWhile.deps.json
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang122bWhile\bin\Debug\net6.0-windows\Lang122bWhile.runtimeconfig.json
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang122bWhile\bin\Debug\net6.0-windows\Lang122bWhile.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang122bWhile\bin\Debug\net6.0-windows\ref\Lang122bWhile.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang122bWhile\bin\Debug\net6.0-windows\Lang122bWhile.pdb
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang122bWhile\obj\Debug\net6.0-windows\Lang122bWhile.Form1.resources
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang122bWhile\obj\Debug\net6.0-windows\Lang122bWhile.csproj.GenerateResource.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang122bWhile\obj\Debug\net6.0-windows\Lang122bWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang122bWhile\obj\Debug\net6.0-windows\Lang122bWhile.AssemblyInfoInputs.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang122bWhile\obj\Debug\net6.0-windows\Lang122bWhile.AssemblyInfo.cs
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang122bWhile\obj\Debug\net6.0-windows\Lang122bWhile.csproj.CoreCompileInputs.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang122bWhile\obj\Debug\net6.0-windows\Lang122bWhile.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang122bWhile\obj\Debug\net6.0-windows\ref\Lang122bWhile.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang122bWhile\obj\Debug\net6.0-windows\Lang122bWhile.pdb
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Lang122bWhile\obj\Debug\net6.0-windows\Lang122bWhile.genruntimeconfig.cache

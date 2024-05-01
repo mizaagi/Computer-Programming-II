@@ -1,0 +1,16 @@
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Pg273MassAndWhite\bin\Debug\net6.0-windows\Pg273MassAndWhite.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Pg273MassAndWhite\bin\Debug\net6.0-windows\Pg273MassAndWhite.deps.json
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Pg273MassAndWhite\bin\Debug\net6.0-windows\Pg273MassAndWhite.runtimeconfig.json
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Pg273MassAndWhite\bin\Debug\net6.0-windows\Pg273MassAndWhite.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Pg273MassAndWhite\bin\Debug\net6.0-windows\ref\Pg273MassAndWhite.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Pg273MassAndWhite\bin\Debug\net6.0-windows\Pg273MassAndWhite.pdb
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Pg273MassAndWhite\obj\Debug\net6.0-windows\Pg273MassAndWhite.Form1.resources
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Pg273MassAndWhite\obj\Debug\net6.0-windows\Pg273MassAndWhite.csproj.GenerateResource.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Pg273MassAndWhite\obj\Debug\net6.0-windows\Pg273MassAndWhite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Pg273MassAndWhite\obj\Debug\net6.0-windows\Pg273MassAndWhite.AssemblyInfoInputs.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Pg273MassAndWhite\obj\Debug\net6.0-windows\Pg273MassAndWhite.AssemblyInfo.cs
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Pg273MassAndWhite\obj\Debug\net6.0-windows\Pg273MassAndWhite.csproj.CoreCompileInputs.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Pg273MassAndWhite\obj\Debug\net6.0-windows\Pg273MassAndWhite.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Pg273MassAndWhite\obj\Debug\net6.0-windows\ref\Pg273MassAndWhite.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Pg273MassAndWhite\obj\Debug\net6.0-windows\Pg273MassAndWhite.pdb
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\Pg273MassAndWhite\obj\Debug\net6.0-windows\Pg273MassAndWhite.genruntimeconfig.cache
