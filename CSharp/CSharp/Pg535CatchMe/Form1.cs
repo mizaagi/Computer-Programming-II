@@ -9,7 +9,7 @@ namespace Pg535CatchMe
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("You got me!", "", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+            MessageBox.Show("You got me!", "", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
         }
 
         private string[] strCaption = { "Click here", "Try harder!",
