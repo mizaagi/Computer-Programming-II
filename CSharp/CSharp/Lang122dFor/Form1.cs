@@ -9,7 +9,10 @@ namespace Lang122dFor
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            for (int lcv = -12; lcv < 17; lcv++)
+            {
+                listBox1.Items.Add(lcv.ToString() + "\t\t" + Prog122d(lcv).ToString());
+            }
         }
 
         public double Prog122d(double x)

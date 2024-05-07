@@ -95,7 +95,22 @@
       "ProjectGuid": "4b196ffe-4f25-4062-b762-7ac028631558",
       "DisplayName": "Pg535CatchMe",
       "ColorIndex": 2
+    },
+    "e5f48f6c-0553-483e-8275-d788fb569ecb": {
+      "ProjectGuid": "e5f48f6c-0553-483e-8275-d788fb569ecb",
+      "DisplayName": "CalcWithFunctions",
+      "ColorIndex": 3
+    },
+    "158ccb5e-f209-486c-bb1f-9b64c69c70fc": {
+      "ProjectGuid": "158ccb5e-f209-486c-bb1f-9b64c69c70fc",
+      "DisplayName": "Lang122dFor",
+      "ColorIndex": 4
+    },
+    "2437f795-77e0-4eaf-973e-10cf2c1614ae": {
+      "ProjectGuid": "2437f795-77e0-4eaf-973e-10cf2c1614ae",
+      "DisplayName": "Prog366b",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 6
 }
