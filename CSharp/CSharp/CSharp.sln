@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcWithFunctions", "CalcWi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lang122dFor", "Lang122dFor\Lang122dFor.csproj", "{158CCB5E-F209-486C-BB1F-9B64C69C70FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog366b", "Prog366b\Prog366b.csproj", "{2437F795-77E0-4EAF-973E-10CF2C1614AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prog366b", "Prog366b\Prog366b.csproj", "{2437F795-77E0-4EAF-973E-10CF2C1614AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg435TicketSalesCS", "Pg435TicketSalesCS\Pg435TicketSalesCS.csproj", "{DF484909-E016-47BA-91FF-D83CEB94887C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{2437F795-77E0-4EAF-973E-10CF2C1614AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2437F795-77E0-4EAF-973E-10CF2C1614AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2437F795-77E0-4EAF-973E-10CF2C1614AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF484909-E016-47BA-91FF-D83CEB94887C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF484909-E016-47BA-91FF-D83CEB94887C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF484909-E016-47BA-91FF-D83CEB94887C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF484909-E016-47BA-91FF-D83CEB94887C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
