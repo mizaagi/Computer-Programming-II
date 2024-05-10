@@ -115,7 +115,12 @@
       "ProjectGuid": "df484909-e016-47ba-91ff-d83ceb94887c",
       "DisplayName": "Pg435TicketSalesCS",
       "ColorIndex": 6
+    },
+    "fa5c3e29-1673-46cb-b3ad-4bb4770a7d81": {
+      "ProjectGuid": "fa5c3e29-1673-46cb-b3ad-4bb4770a7d81",
+      "DisplayName": "Pg334LoanCalculator",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }
