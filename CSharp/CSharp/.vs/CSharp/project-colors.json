@@ -120,7 +120,12 @@
       "ProjectGuid": "fa5c3e29-1673-46cb-b3ad-4bb4770a7d81",
       "DisplayName": "Pg334LoanCalculator",
       "ColorIndex": 7
+    },
+    "f1b29954-fac5-4042-90eb-8e078c58e492": {
+      "ProjectGuid": "f1b29954-fac5-4042-90eb-8e078c58e492",
+      "DisplayName": "Pg498Payroll",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }

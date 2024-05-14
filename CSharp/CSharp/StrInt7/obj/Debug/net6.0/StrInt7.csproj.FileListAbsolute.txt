@@ -1,0 +1,14 @@
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\StrInt7\bin\Debug\net6.0\StrInt7.exe
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\StrInt7\bin\Debug\net6.0\StrInt7.deps.json
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\StrInt7\bin\Debug\net6.0\StrInt7.runtimeconfig.json
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\StrInt7\bin\Debug\net6.0\StrInt7.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\StrInt7\bin\Debug\net6.0\ref\StrInt7.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\StrInt7\bin\Debug\net6.0\StrInt7.pdb
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\StrInt7\obj\Debug\net6.0\StrInt7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\StrInt7\obj\Debug\net6.0\StrInt7.AssemblyInfoInputs.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\StrInt7\obj\Debug\net6.0\StrInt7.AssemblyInfo.cs
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\StrInt7\obj\Debug\net6.0\StrInt7.csproj.CoreCompileInputs.cache
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\StrInt7\obj\Debug\net6.0\StrInt7.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\StrInt7\obj\Debug\net6.0\ref\StrInt7.dll
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\StrInt7\obj\Debug\net6.0\StrInt7.pdb
+C:\Users\kohn.m\Documents\GitHub\Computer-Programming-II\CSharp\CSharp\StrInt7\obj\Debug\net6.0\StrInt7.genruntimeconfig.cache
